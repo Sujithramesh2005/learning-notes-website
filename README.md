@@ -24,5 +24,5 @@ Here you can find the snapshoots of geek notes web page:
 
 You can view a simple tutorial regarding this webpage, by just a click on the link below:
 
-https://drive.google.com/file/d/1K07XYyCN4NPf2LGzBAILXVogpkPxq7Fs/view?usp=share_link
+
 
