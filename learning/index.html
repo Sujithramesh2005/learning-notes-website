@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Learn HTML, CSS & JS</title>
+<link rel="stylesheet" type="text/css" href="button.css">
+<style>
+body {
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Helvetica, Arial, sans-serif;
+  background: linear-gradient(135deg, #0f2027 0%, #2c5364 100%);
+  background-attachment: fixed;
+  color: #f8f8f8;
+}
+h1 {
+  text-align: center;
+  color: #15f4ee;
+  font-size: 60px;
+  margin-top: 30px;
+  text-shadow: 0 4px 24px #0ff, 0 1px 0 #222;
+}
+.p1 {
+  color: #f8f8f8;
+  font-size: 22px;
+  line-height: 1.6;
+  margin: 0 auto 20px auto;
+  max-width: 900px;
+  background: rgba(30, 40, 60, 0.7);
+  padding: 16px 24px;
+  border-radius: 12px;
+  box-shadow: 0 2px 16px rgba(0,0,0,0.2);
+  text-align: left;
+}
+.video-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 32px;
+  margin: 30px 0;
+}
+.video-card {
+  background: rgba(20, 30, 50, 0.92);
+  border-radius: 18px;
+  box-shadow: 0 4px 32px #15f4ee33;
+  max-width: 400px;
+  padding: 18px 12px;
+  color: #fff;
+  text-align: center;
+}
+.video-card iframe {
+  width: 100%;
+  height: 220px;
+  border-radius: 10px;
+  margin-bottom: 12px;
+}
+.btn, .button {
+  background: linear-gradient(90deg, #15f4ee 0%, #a18cd1 100%);
+  color: #222;
+  border: none;
+  border-radius: 8px;
+  padding: 14px 36px;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  margin: 18px auto;
+  display: block;
+  box-shadow: 0 2px 16px #15f4ee33;
+  transition: background 0.2s, color 0.2s;
+}
+.btn:hover, .button:hover {
+  background: linear-gradient(90deg, #a18cd1 0%, #15f4ee 100%);
+  color: #fff;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+a {
+  text-decoration: none;
+}
+@media (max-width: 900px) {
+  h1 { font-size: 38px; }
+  .video-card iframe { height: 160px; }
+  .p1 { font-size: 16px; padding: 10px; }
+  .video-section { gap: 16px; }
+}
+</style>
+</head>
+<body>
+  <h1>Learn HTML, CSS & JS</h1>
+  <div class="p1">
+    Welcome! Here you can find curated YouTube video tutorials to learn <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b> from scratch. These resources are perfect for beginners and those looking to strengthen their web development skills.
+  </div>
+  <div class="video-section">
+    <div class="video-card">
+      <iframe src="https://www.youtube.com/embed/UB1O30fR-EE" title="HTML Crash Course For Beginners" frameborder="0" allowfullscreen></iframe>
+      <div><b>HTML Crash Course</b><br>by Traversy Media</div>
+    </div>
+    <div class="video-card">
+      <iframe src="https://www.youtube.com/embed/yfoY53QXEnI" title="CSS Crash Course For Beginners" frameborder="0" allowfullscreen></iframe>
+      <div><b>CSS Crash Course</b><br>by Traversy Media</div>
+    </div>
+    <div class="video-card">
+      <iframe src="https://www.youtube.com/embed/hdI2bqOjy3c" title="JavaScript Crash Course For Beginners" frameborder="0" allowfullscreen></iframe>
+      <div><b>JavaScript Crash Course</b><br>by Traversy Media</div>
+    </div>
+  </div>
+  <p style="text-align:center;">You can find more resources and code samples on GitHub.</p>
+ <a href="https://github.com/Sujithramesh2005" target="_blank">
+    <button class="btn">Download Resources</button>
+</a>
+
+  <div class="container">
+    <a href="signup.html">
+      <div class="button">Sign Up</div>
+    </a>
+  </div>
+</body>
+</html>
