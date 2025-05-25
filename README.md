@@ -14,7 +14,7 @@ CSS is designed to enable the separation of content and presentation, including 
 
 Here you can find the snapshoots of geek notes web page:
 
-![signup html# - Google Chrome 07-04-2023 02_58_23](file:///C:/Users/anbur/OneDrive/Desktop/project/New%20folder/Geek-Notes-Webpage/github/index.html)
+![signup html# - Google Chrome 07-04-2023 02_58_23]https://drive.google.com/file/d/1U0N6KlwCDpik5PS4raMocQwzPJnaINMt/view?usp=sharinghttps://drive.google.com/file/d/1U0N6KlwCDpik5PS4raMocQwzPJnaINMt/view?usp=sharing
 
 
 ![signup html# - Google Chrome 07-04-2023 02_59_09](https://user-images.githubusercontent.com/85097081/230588434-847f7e30-ef5c-4618-8628-cddc2cc8e339.png)
@@ -23,6 +23,6 @@ Here you can find the snapshoots of geek notes web page:
 ![signup html# - Google Chrome 07-04-2023 03_36_42](https://user-images.githubusercontent.com/85097081/230589901-f2c4e233-f672-4b7f-83aa-5906a2019437.png)
 
 You can view a simple tutorial regarding this webpage, by just a click on the link below:
-
-
+https://drive.google.com
+https://drive.google.com/file/d/1_XvALQcMnZw_qoXfH9w3Scn2kunwMki1/view?usp=sharing
 
