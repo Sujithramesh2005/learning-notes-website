@@ -17,9 +17,9 @@ Welcome to **Geek Notes**—a creative, animated front-end web page built with H
  ![index page Preview](https://github.com/Sujithramesh2005/learning-notes-website/blob/main/project.jpg.png?raw=true)
 
 
-![Signup Form Preview](https://user-images.githubusercontent.com/85097081/230588434-847f7e30-ef5c-4618-8628-cddc2cc8e339.png)
+![Signup Form Preview](https://github.com/Sujithramesh2005/learning-notes-website/blob/main/Screenshot%202025-05-25%20133453.png?raw=true)
 
-![Login Form Preview](https://user-images.githubusercontent.com/85097081/230589901-f2c4e233-f672-4b7f-83aa-5906a2019437.png)
+
 
 ---
 
